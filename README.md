@@ -1,24 +1,3 @@
-# README
+![image](https://github.com/IsCathal/localRanker/assets/52865729/b9f33b9b-4178-40fa-8646-1030706429f1)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Goal is to remake this, + some openAI for ImageGen
